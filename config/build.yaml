@@ -1,4 +1,0 @@
-build:
-  output_formats:
-    - hex
-    - uf2
