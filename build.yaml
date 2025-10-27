@@ -27,3 +27,8 @@ include:
     shield: sofle_right
   - board: nice_nano
     shield: settings_reset
+build:
+  output_formats:
+    - hex
+    - uf2
+    - bin    
